@@ -1,0 +1,23 @@
+{
+  "name": "aea6-akamila-bgutierrez",
+  "version": "1.0.0",
+  "description": "Instal·lació a Ubuntu/Debian:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akamila-daw/aea6-akamila-bgutierrez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akamila-daw/aea6-akamila-bgutierrez/issues"
+  },
+  "homepage": "https://github.com/akamila-daw/aea6-akamila-bgutierrez#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.5"
+  }
+}
