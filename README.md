@@ -1,4 +1,8 @@
+#aea6-akamila-bgutierrez
+
 ## Instal·lació i configuració de Git
+
+Projecte de pràctiques de Git i GitHub en parella, de l'AEA6 del mòdul M0614.
 
 Instal·lació a Ubuntu/Debian:
 
